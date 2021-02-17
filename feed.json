@@ -2,8 +2,8 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "AuraCandy",
     "description": "",
-    "home_page_url": "http://eyecandyaura.com",
-    "feed_url": "http://eyecandyaura.com/feed.json",
+    "home_page_url": "https://eyecandyaura.com",
+    "feed_url": "https://eyecandyaura.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "AuraCandy"
